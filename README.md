@@ -1,9 +1,8 @@
 # Análise Exploratória de Dados do Titanic (EDA)
 
 ## Visão Geral do Projeto
-Este projeto realiza uma Análise Exploratória de Dados (EDA) completa no famoso conjunto de dados do Titanic, seguindo as diretrizes e requisitos do roadmap de Análise de Dados do [roadmap.sh](https://roadmap.sh/projects/titanic-eda-python).
+Com o objetivo principal de entender quais fatores (gênero, classe socioeconômica, idade, presença de familiares, porto de embarque, etc.) influenciaram diretamente as chances de sobrevivência dos passageiros do conhecido naufrágio do navio Titanic, este projeto realiza uma Análise Exploratória de Dados utilizando o conjunto de dados da plataforma Kaggle e seguindo as diretrizes e requisitos do roadmap de Análise de Dados do [roadmap.sh](https://roadmap.sh/projects/titanic-eda-python).
 
-O objetivo principal é entender quais fatores (gênero, classe socioeconômica, idade, presença de familiares, porto de embarque, etc.) influenciaram diretamente as chances de sobrevivência dos passageiros.
 
 ---
 ## O que foi utilizado:
