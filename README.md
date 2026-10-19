@@ -6,8 +6,7 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) completa no famos
 O objetivo principal é entender quais fatores (gênero, classe socioeconômica, idade, presença de familiares, porto de embarque, etc.) influenciaram diretamente as chances de sobrevivência dos passageiros.
 
 ---
-
-## Tecnologias Utilizadas
+## O que foi utilizado:
 * **Python**
 * **Pandas** (manipulação e limpeza de dados)
 * **Matplotlib** & **Seaborn** (visualização de dados)
